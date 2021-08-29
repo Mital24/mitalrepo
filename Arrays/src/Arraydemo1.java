@@ -18,7 +18,7 @@ public class Arraydemo1 {
 		{
 			//System.out.println("ENTER AGE ["+ i +"]");
 			//intArray[i]=sc.nextInt();
-			
+			System.out.println("Poonam modifies code");
 			System.out.println("ENTER NAME ["+ i +"]");
 			s1[i]=sc.next();
 		}
